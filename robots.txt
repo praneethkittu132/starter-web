@@ -1,3 +1,4 @@
 # robotstxt.org/
 
 User-agent: *
+#adding this for stash.
